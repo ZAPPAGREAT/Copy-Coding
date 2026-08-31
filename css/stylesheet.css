@@ -477,7 +477,7 @@ header {
 }
 
 .cover-img {
-  background-image: url("img/main.png");
+  background-image: url("./img/main.png");
   background-position: center;
   height: 500px;
   display: table;
@@ -532,7 +532,7 @@ header {
 }
 
 .introduction {
-  background-image: url("img/introbottom.png");
+  background-image: url("./img/introbottom.png");
   background-size: cover;
   background-position: center;
   height: 587px;
@@ -619,7 +619,7 @@ header {
 }
 
 .aboutsecond {
-  background-image: url("img/aboutsecondbg.jpg");
+  background-image: url("./img/aboutsecondbg.jpg");
   background-size: cover;
   background-position: center;
   padding: 40px 0;
@@ -726,21 +726,21 @@ header {
 
 .learnfromfreelancer {
   height: 180px;
-  background-image: url("img/learnfromfreelancer.jpg");
+  background-image: url("./img/learnfromfreelancer.jpg");
   background-position: center;
   background-size: cover;
 }
 
 .learnfromprojects {
   height: 180px;
-  background-image: url("img/learnfromprojects.jpg");
+  background-image: url("./img/learnfromprojects.jpg");
   background-position: center;
   background-size: cover;
 }
 
 .actuallyfree {
   height: 180px;
-  background-image: url("img/actuallyfree.jpg");
+  background-image: url("./img/actuallyfree.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -769,7 +769,7 @@ header {
 .teacher {
   padding: 40px 0;
   text-align: center;
-  background-image: url("img/teacherbg.jpg");
+  background-image: url("./img/teacherbg.jpg");
   background-position: center;
   background-size: cover;
   color: #fff ;
@@ -921,7 +921,7 @@ header {
   color: #fff;
   text-align: center;
   padding: 40px 0;
-  background-image: url("img/classbg.jpg");
+  background-image: url("./img/classbg.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -1057,7 +1057,7 @@ header {
 }
 
 .bangkok {
-  background-image: url("img/bangkok.jpeg");
+  background-image: url("./img/bangkok.jpeg");
   background-position: center;
   background-size: cover;
   padding: 80px 80px;
@@ -1132,7 +1132,7 @@ header {
   padding: 40px 0;
   text-align: center;
   color: #fff;
-  background-image: url("img/specialdetail.jpeg");
+  background-image: url("./img/specialdetail.jpeg");
   background-position: center;
   background-size: cover;
 }
