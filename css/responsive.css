@@ -176,8 +176,7 @@
   .brpc {
     display: none;
   }
-  .section-frame,
-  .section-frame-light {
+  .section-frame{
     margin: 0 auto;
     position: relative;
     width: 95%;
@@ -186,6 +185,17 @@
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
   }
+
+  .section-frame-light {
+    margin: 0 auto;
+    position: relative;
+    width: 95%;
+    max-width: calc(100% - 10px);
+    padding: 10px 10px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
   .yellowbracketsnarrow .txtm,
   .whitebrackets .txtm {
     margin: 15px auto -15px;
