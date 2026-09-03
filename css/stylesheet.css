@@ -1285,7 +1285,8 @@ header {
   color: #e5e5e5;
 }
 
-.questionstoggle a.collapsed:after .faq-toggle a.collapsed:after {
+.questionstoggle a.collapsed:after,
+.faq-toggle a.collapsed:after {
   font-family: "Glyphicons Halflings";
   content: "\e114"; /*margin-top: 13px;*/
   float: right;

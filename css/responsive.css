@@ -745,6 +745,9 @@
     margin: auto 0;
     height: 16px;
   }
+  .faq-list .faq-toggle a.collapsed:after {
+    content: "\e114" !important;
+  }
   /*--footer--*/
   .footerwrap {
     padding: 20px 15px 0 0;
