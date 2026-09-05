@@ -477,7 +477,7 @@ header {
 }
 
 .cover-img {
-  background-image: url("./img/main.png");
+  background-image: url("/img/main.png");
   background-position: center;
   height: 500px;
   display: table;
